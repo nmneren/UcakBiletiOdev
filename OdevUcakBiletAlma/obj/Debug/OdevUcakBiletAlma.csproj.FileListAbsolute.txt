@@ -1,0 +1,10 @@
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\bin\Debug\OdevUcakBiletAlma.exe.config
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\bin\Debug\OdevUcakBiletAlma.exe
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\bin\Debug\OdevUcakBiletAlma.pdb
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\obj\Debug\OdevUcakBiletAlma.csprojAssemblyReference.cache
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\obj\Debug\OdevUcakBiletAlma.Form1.resources
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\obj\Debug\OdevUcakBiletAlma.Properties.Resources.resources
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\obj\Debug\OdevUcakBiletAlma.csproj.GenerateResource.cache
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\obj\Debug\OdevUcakBiletAlma.csproj.CoreCompileInputs.cache
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\obj\Debug\OdevUcakBiletAlma.exe
+C:\Users\MOSTER\source\repos\OdevUcakBiletAlma\OdevUcakBiletAlma\obj\Debug\OdevUcakBiletAlma.pdb
